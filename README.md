@@ -1,7 +1,16 @@
-### Overview
+### Testing
 
-You can use this template to create library for React app, or for node app
+    yarn build
+    node index.js
 
-### To install, run:
+### Usage
 
-`npx @tinychange/new-react-lib`
+```javascript
+yarn add @tinychange/txn-matcher
+```
+
+    import { match } from "@tinychange/txn-matcher"
+
+    match({ordes, transactions})
+
+Please refer to index.js and test-data in source code for details of data

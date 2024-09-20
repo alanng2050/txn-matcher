@@ -1,0 +1,26 @@
+[
+  {
+    "type": "order",
+    "customerName": "Bryan",
+    "orderId": "12OB-1",
+    "date": "2023-07-11",
+    "product": "Product ABC-1",
+    "price": 1.23
+  },
+  {
+    "type": "order",
+    "customerName": "Bryan",
+    "orderId": "12OB-I",
+    "date": "2023-07-11",
+    "product": "Product ABC-1",
+    "price": 1.23
+  },
+  {
+    "type": "order",
+    "customerName": "Michael",
+    "orderId": "L2OB-I",
+    "date": "2023-07-11",
+    "product": "Product ABC-1",
+    "price": 1.23
+  }
+]
