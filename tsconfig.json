@@ -2,8 +2,8 @@
   "compilerOptions": {
     "outDir": "dist",
     "module": "CommonJS",
-    "target": "ES6",
-    "lib": ["ES6"],
+    "target": "ESNext",
+    "lib": ["ESNext"],
     "allowJs": true,
     "strict": true,
     "removeComments": true,
